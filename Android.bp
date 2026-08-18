@@ -131,17 +131,6 @@ cc_prebuilt_binary {
 }
 
 android_app_import {
-	name: "ImsService",
-	owner: "realme",
-	apk: "proprietary/priv-app/ImsService/ImsService.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-}
-
-android_app_import {
 	name: "EmCamera",
 	owner: "realme",
 	apk: "proprietary/vendor/app/EmCamera/EmCamera.apk",
