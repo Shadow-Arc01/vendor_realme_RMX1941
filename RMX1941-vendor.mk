@@ -1471,7 +1471,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     chargeonlymode \
-    ImsService \
     libaudio_param_parser-sys \
     libaudiotoolkit \
     libem_audio_jni \
