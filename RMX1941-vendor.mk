@@ -941,7 +941,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1941/proprietary/vendor/lib/libthermalalgo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthermalalgo.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/libthha.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthha.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinycompress.so \
-vendor/realme/RMX1941/proprietary/vendor/lib/libtinyxml.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyxml.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/libtqvalidate.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtqvalidate.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/libudf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libudf.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/libufwriter.so:$(TARGET_COPY_OUT_VENDOR)/lib/libufwriter.so \
@@ -1383,7 +1382,6 @@ vendor/realme/RMX1941/proprietary/vendor/lib/libtinyxml.so:$(TARGET_COPY_OUT_VEN
     vendor/realme/RMX1941/proprietary/vendor/lib64/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsysenv.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/libthha.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthha.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/libtinycompress.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinycompress.so \
-vendor/realme/RMX1941/proprietary/vendor/lib64/libtinyxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinyxml.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/libtqvalidate.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtqvalidate.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/libtrustonic_keybox_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtrustonic_keybox_ca.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/libudf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libudf.so \
